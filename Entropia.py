@@ -23,3 +23,4 @@ for i in Y:
     vect.append(a)
     
 entrp =sum(vect)
+print(entrp)
